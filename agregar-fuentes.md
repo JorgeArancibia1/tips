@@ -38,3 +38,5 @@ export const Navbar = () => {
 	);
 };
 ```
+
+De esta forma podrás agregar íconos gratuitos de Font Awesome a tu proyecto. :smile:
